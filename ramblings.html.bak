@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -20,8 +19,7 @@
         V    V         V          }' `\ /' `{          V         V    V
         `    `         `               V               '         '    '
 
-DrosRas       
- 
+DrosRas                                                                                                                       
 -->
 
 <head>
@@ -29,7 +27,7 @@ DrosRas
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="shortcut icon" href="/images/favicon.ico" type="/images/x-icon">
     <link rel="icon" href="/images/favicon.ico" type="/images/x-icon">
-    <title>Projects</title>
+    <title>Entries</title>
     <meta name="description" content="Mel Ho is a designer, fabricator, and roboticist who has previously worked for Adam Savage and the UCSC DanserLab." itemprop="description">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="styles.css" >
@@ -64,7 +62,7 @@ DrosRas
             <div class="right-column">
                 <div class="navigation">
                     <div class="link-wrapper">
-                        <a href="index.html" class="svideo ca-large">About |</a>
+                        <a href="about.html" class="svideo ca-large">About |</a>
                         <a href="projects.html" class="svideo ca-large">SYSTEMS |</a>
                         <a href="graphics.html" class="svideo ca-large">Graphics |</a>
 						<a href="photography.html" class="svideo ca-large">Audio |</a>
@@ -72,38 +70,59 @@ DrosRas
                         <a href="ramblings.html" class="svideo ca-large">Ramblings |</a>
                         <a href="contact.html" class="svideo ca-large">Contact</a>
                     </div>
-                </div>			
-                <div class="right-column">
-				<div style="text-align: center;">
-				<img src="images\giphyrr.gif" class="fit" />
-				</div>
-					   <div class="gallery">
-					   
-        
-        <div class="media" style="background-image: url('images/1280x800-2017-09-29-image-9.4be.jpg')">
-            <a class="ca-small" href="it/systems.html">Systems</a>
-        </div>
-        <div class="media" style="background-image: url('images/kali.png')">
-            <a class="ca-small" href="it/security.html">Security</a>
-        </div>
-
-        <div class="media" style="background-image: url('images/python1.jpg')">
-            <a class="ca-small" href="it/programming.html">Programming</a>
-        </div>
-
+                </div>
+                <script>
+    document.getElementsByTagName("body")[0].style.cursor = "url('/images/too461.cur'), auto";
+    </script>
+    
+<div class="detail-page" >
+    <img src="images/giphy.gif" class="center">
+    <p class="blog-title"><span class="edunline">Entries</span>
+    <section>
+  <div class="container">
+    <div class="row">
+      <div class="text-center">
+        <ul class="nobull">
+           
+             <li class="blog-entry">
+               <img class="post-thumbnail" src="images/andrea-calderari-5.jpg" />
+               <a href="/2020/07/18/HELLO-WORLD.html">HELLO WORLD! </a>
+                 18 July 2020
+             </li>
+           
+        </ul>
+      </div>
     </div>
+  </div>
+</section>
 
+<div class="text-link"> COOL LINKS
+  <ul class="nobull">
+    <li><a target="_blank" href="https://ssd.eff.org/en">EFF Surveillance Self Defence</a></li>
+    <li><a target="_blank" href="https://www.sheltertech.org/">Shelter Tech: Homeless people need technology too</a></li>
+    <li><a target="_blank" href="http://toastytech.com/evil/index.html">Toasty Tech: Internet Explorer is EVIL!</a></li>
+    <li><a target="_blank" href="https://archive.org/">Internet Archive</a></li>
+    <li><a target="_blank" href="https://hackinghustling.org/events/">Hacking Hustling</a></li>
+    <li><a target="_blank" href="https://b-ok.org/">ZLibrary: The World's Largest ebook Library</a></li>
+    <li><a target="_blank" href="https://sci-hub.ru/about">Sci-Hub: To remove all barriers in the way of science</a></li>
+    <li><a target="_blank" href="https://transgenderlawcenter.org/programs">Transgender Law Center</a></li>
+    <li><a target="_blank" href="https://soj.org/#cid=1227&wid=1901">Society of Janus</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=5gnlhmaM-dM">this video is still relevent</a></li>
+    <li><a target="_blank" href="https://openinsulin.org/">Open Source Insulin</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/user/TransDIYer">All Hail Kat Blaque</a></li>
+    <li><a target="_blank" href="https://www.youtube.com/watch?v=jD-PbF3ywGo&t=2134s">One of my fave Contrapoints Viddies</a></li>
+    <li><a target="_blank" href="https://mebious.neocities.org/">All Hail Lain</a></li>
+  </ul>
 </div>
+</div>
+
                 <div class="footer">
                     <a class="hide-non-mobile" target="_blank" href="https://www.instagram.com/melware.exe/"><img src="/images/instagram.png" height="32" width="32" /></a>
                     <a class="hide-non-mobile" target="_blank" href="https://www.linkedin.com/in/melware/"><img src="/images/linkedin.png" height="32" width="32" /></a>
                     <a class="hide-non-mobile" target="_blank" href="https://github.com/meltingmelon"><img src="/images/GitHub-Mark-Light-32px.png" height="32" width="32"/></a>
                     <a class="hide-non-mobile" target="_blank" href="https://twitter.com/melware_exe"><img src="/images/twitter.png" height="32" width="32"/></a>    
                     <a class="hide-non-mobile" target="_blank" href="https://www.artstation.com/melware_exe"><img src="/images/artstation.png" height="32" width="32"/></a>
-                    
-					
-					
-					<p> Website Design by Alex Darras. All Rights Reserved. 3030</p>
+                    <p> Website Design by Alex Darras. All Rights Reserved. 3030</p>
                 </div>
             </div>
         </div>

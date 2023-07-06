@@ -64,7 +64,7 @@ DrosRas
             <div class="right-column">
                 <div class="navigation">
                     <div class="link-wrapper">
-                        <a href="index.html" class="svideo ca-large">About |</a>
+                        <a href="about.html" class="svideo ca-large">About |</a>
                         <a href="projects.html" class="svideo ca-large">SYSTEMS |</a>
                         <a href="graphics.html" class="svideo ca-large">Graphics |</a>
 						<a href="photography.html" class="svideo ca-large">Audio |</a>
@@ -72,27 +72,46 @@ DrosRas
                         <a href="ramblings.html" class="svideo ca-large">Ramblings |</a>
                         <a href="contact.html" class="svideo ca-large">Contact</a>
                     </div>
-                </div>			
+                </div>
                 <div class="right-column">
-				<div style="text-align: center;">
-				<img src="images\giphyrr.gif" class="fit" />
-				</div>
-					   <div class="gallery">
-					   
+    <div class="gallery">
         
-        <div class="media" style="background-image: url('images/1280x800-2017-09-29-image-9.4be.jpg')">
-            <a class="ca-small" href="it/systems.html">Systems</a>
+        <div class="media" style="background-image: url('images/photography/1686920681964.jpg')">
+            <a class="ca-small" href="/projects/neonvowels.html">desk</a>
         </div>
-        <div class="media" style="background-image: url('images/kali.png')">
-            <a class="ca-small" href="it/security.html">Security</a>
+        <div class="media" style="background-image: url('/images/buttkeyboard/buttkeyboard1.jpg')">
+            <a class="ca-small" href="/projects/buttkeyboard.html">Butt Keyboard From Hell</a>
         </div>
 
-        <div class="media" style="background-image: url('images/python1.jpg')">
-            <a class="ca-small" href="it/programming.html">Programming</a>
+        <div class="media" style="background-image: url('/images/mercurypanel/mercurypanel-1.png')">
+            <a class="ca-small" href="/projects/mercurycockpit.html">Friendship 7 Cockpit</a>
+        </div>
+
+        <div class="media" style="background-image: url('/images/bladerunnerblimp/blimp-1.jpg')">
+            <a class="ca-small" href="/projects/bladerunnerblimp.html">Blade Runner Blimp</a>
+        </div>
+
+        <div class="media" style="background-image: url('/images/starlord/starlord.jpg')">
+            <a class="ca-small" href="/projects/star-lord.html">SVCC 2019 Star-Lord</a>
+        </div>
+
+        <div class="media" style="background-image: url('/images/egress/egress-4.jpg')">
+            <a class="ca-small" href="/projects/projectegress.html">Project Egresss</a>
+        </div>
+
+        <div class="media" style="background-image: url('/images/zf1/zf1.jpg')">
+            <a class="ca-small" href="/projects/zf1.html">SAVAGE BUILDS: ZF-1 Gun</a>
+        </div>
+
+        <div class="media" style="background-image: url('/images/mayo/mayo.jpg')">
+            <a class="ca-small" href="/projects/mayo.html">Mayo Maker</a>
+        </div>
+
+        <div class="media" style="background-image: url('/images/neotropolis/neotropolis-2.jpg')">
+            <a class="ca-small" href="/projects/neotropolis.html">Neotropolis</a>
         </div>
 
     </div>
-
 </div>
                 <div class="footer">
                     <a class="hide-non-mobile" target="_blank" href="https://www.instagram.com/melware.exe/"><img src="/images/instagram.png" height="32" width="32" /></a>
@@ -100,10 +119,7 @@ DrosRas
                     <a class="hide-non-mobile" target="_blank" href="https://github.com/meltingmelon"><img src="/images/GitHub-Mark-Light-32px.png" height="32" width="32"/></a>
                     <a class="hide-non-mobile" target="_blank" href="https://twitter.com/melware_exe"><img src="/images/twitter.png" height="32" width="32"/></a>    
                     <a class="hide-non-mobile" target="_blank" href="https://www.artstation.com/melware_exe"><img src="/images/artstation.png" height="32" width="32"/></a>
-                    
-					
-					
-					<p> Website Design by Alex Darras. All Rights Reserved. 3030</p>
+                    <p> Website Design by Alex Darras. All Rights Reserved. 3030</p>
                 </div>
             </div>
         </div>

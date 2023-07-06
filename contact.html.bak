@@ -20,8 +20,7 @@
         V    V         V          }' `\ /' `{          V         V    V
         `    `         `               V               '         '    '
 
-DrosRas       
- 
+DrosRas                                                                                                                    
 -->
 
 <head>
@@ -29,7 +28,7 @@ DrosRas
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="shortcut icon" href="/images/favicon.ico" type="/images/x-icon">
     <link rel="icon" href="/images/favicon.ico" type="/images/x-icon">
-    <title>Projects</title>
+    <title>Contact Me</title>
     <meta name="description" content="Mel Ho is a designer, fabricator, and roboticist who has previously worked for Adam Savage and the UCSC DanserLab." itemprop="description">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="styles.css" >
@@ -64,7 +63,7 @@ DrosRas
             <div class="right-column">
                 <div class="navigation">
                     <div class="link-wrapper">
-                        <a href="index.html" class="svideo ca-large">About |</a>
+                        <a href="about.html" class="svideo ca-large">About |</a>
                         <a href="projects.html" class="svideo ca-large">SYSTEMS |</a>
                         <a href="graphics.html" class="svideo ca-large">Graphics |</a>
 						<a href="photography.html" class="svideo ca-large">Audio |</a>
@@ -72,38 +71,29 @@ DrosRas
                         <a href="ramblings.html" class="svideo ca-large">Ramblings |</a>
                         <a href="contact.html" class="svideo ca-large">Contact</a>
                     </div>
-                </div>			
-                <div class="right-column">
-				<div style="text-align: center;">
-				<img src="images\giphyrr.gif" class="fit" />
-				</div>
-					   <div class="gallery">
-					   
-        
-        <div class="media" style="background-image: url('images/1280x800-2017-09-29-image-9.4be.jpg')">
-            <a class="ca-small" href="it/systems.html">Systems</a>
+                </div>
+                <body class="crt">
+    <div class="about-container">
+        <div class="about-container__left-column">
+            
         </div>
-        <div class="media" style="background-image: url('images/kali.png')">
-            <a class="ca-small" href="it/security.html">Security</a>
-        </div>
-
-        <div class="media" style="background-image: url('images/python1.jpg')">
-            <a class="ca-small" href="it/programming.html">Programming</a>
+        <div class="about-container__right-column">
+			<img src="images/1686920681964.jpg" class="fit" />
+            <p>For collaborations and other inquiries:
+                <a href="mailto:mel@mel-ware.com" class="text-link">oalexdarras@hotmail.com</a></p>
+                <p>Looking forward to connecting whether in meatspace or the digital consciousness</p>
         </div>
 
     </div>
 
-</div>
+</body>
                 <div class="footer">
-                    <a class="hide-non-mobile" target="_blank" href="https://www.instagram.com/melware.exe/"><img src="/images/instagram.png" height="32" width="32" /></a>
-                    <a class="hide-non-mobile" target="_blank" href="https://www.linkedin.com/in/melware/"><img src="/images/linkedin.png" height="32" width="32" /></a>
-                    <a class="hide-non-mobile" target="_blank" href="https://github.com/meltingmelon"><img src="/images/GitHub-Mark-Light-32px.png" height="32" width="32"/></a>
+                    <a class="hide-non-mobile" target="_blank" href="https://www.instagram.com/melware.exe/"><img src="images/instagram.png" height="32" width="32" /></a>
+                    <a class="hide-non-mobile" target="_blank" href="https://www.linkedin.com/in/melware/"><img src="images/linkedin.png" height="32" width="32" /></a>
+                    <a class="hide-non-mobile" target="_blank" href="https://github.com/meltingmelon"><img src="images/GitHub-Mark-Light-32px.png" height="32" width="32"/></a>
                     <a class="hide-non-mobile" target="_blank" href="https://twitter.com/melware_exe"><img src="/images/twitter.png" height="32" width="32"/></a>    
-                    <a class="hide-non-mobile" target="_blank" href="https://www.artstation.com/melware_exe"><img src="/images/artstation.png" height="32" width="32"/></a>
-                    
-					
-					
-					<p> Website Design by Alex Darras. All Rights Reserved. 3030</p>
+                    <a class="hide-non-mobile" target="_blank" href="https://www.artstation.com/melware_exe"><img src="images/artstation.png" height="32" width="32"/></a>
+                    <p> Website Design by Alexadros Darras. All Rights Reserved. 3030</p>
                 </div>
             </div>
         </div>
